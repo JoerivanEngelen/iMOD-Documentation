@@ -2,8 +2,6 @@
 Install
 *******
 
-**NOTE: These are install instructions for the beta release**
-
 For the complete iMOD viewer (QGIS plugin and 3D viewer) can be installed
 using the Deltares installer. A working QGIS is needed before installing the 
 iMOD viewer.

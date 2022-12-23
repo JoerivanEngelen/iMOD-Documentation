@@ -1,8 +1,8 @@
 .. _viewer-install-msi:
 
-*******
-Install
-*******
+********************
+Install iMOD Viewer
+********************
 
 To install the iMOD Viewer components (3D Viewer & QGIS plugin),
 download the installer 
