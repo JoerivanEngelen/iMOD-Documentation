@@ -35,13 +35,6 @@ extensions = [
     "sphinx.ext.napoleon",
 ]
 
-sphinx_gallery_conf = {
-    "examples_dirs": "../examples",  # path to your example scripts
-    "gallery_dirs": "examples",  # path to where to save gallery generated output
-    "filename_pattern": ".py",
-    "abort_on_example_error": True,
-}
-
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
 
@@ -81,17 +74,37 @@ pygments_style = "sphinx"
 #
 html_theme = "pydata_sphinx_theme"
 
-# Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
-# documentation.
-#
-# html_theme_options = {}
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 html_css_files = ["theme-deltares.css"]
+
+# Set
+html_context = {"default_mode": "light"}
+
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+#
+html_theme_options = {
+    "navbar_align": "content",
+    "icon_links": [
+        {
+            "name": "Deltares",
+            "url": "https://www.deltares.nl/en/",
+            "icon": "_static/deltares-white.svg",
+            "type": "local",
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/Deltares/iMOD-Documentation",
+            "icon": "fab fa-github",
+            "type": "fontawesome",
+        },
+    ],
+}
+
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -105,7 +118,7 @@ html_css_files = ["theme-deltares.css"]
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_static/deltares-white.svg"
+html_logo = "_static/iMOD-doc-logo.svg"
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
