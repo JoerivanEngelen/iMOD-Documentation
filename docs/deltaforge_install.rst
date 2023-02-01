@@ -4,6 +4,13 @@
 Install iMOD Python with Deltaforge
 ***********************************
 
+What is Deltaforge?
+-------------------
+
+Deltaforge is a python distribution which includes iMOD Python and all its
+dependencies. It is provided as an installer and makes installing iMOD Python
+easy.
+
 Installation
 ------------
 
