@@ -139,9 +139,9 @@ ignore_text_in_index = True
 latex_documents = [
     ("index", "imod-doc.tex", "iMOD Suite", _stdauthor, "manual", ignore_text_in_index),
     (
-        "viewer_install_index",
+        "install_index",
         "imod-installation.tex",
-        "iMOD Viewer install guide",
+        "iMOD Suite install guide",
         _stdauthor,
         "manual",
         False,
