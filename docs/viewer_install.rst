@@ -28,7 +28,7 @@ For a system wide installation, see :ref:`system-wide`.
 Installing with the Deltares setup
 ======================================
 Run the .msi you can download `on the Deltares download
-portal <https://download.deltares.nl/en/download/imod-viewer/>`_
+portal <https://download.deltares.nl/en/download/imod-suite/>`_
 
 Follow the installation instructions for 
 :ref:`the viewer install <viewer-install-msi>`, 
