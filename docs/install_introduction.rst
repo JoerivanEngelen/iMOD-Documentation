@@ -22,10 +22,7 @@ The iMOD Suite offers different modules which support modelling with MODFLOW 6
   currently supports a coupling to MetaSWAP, but additional computational cores
   are planned in the future.
 
-  
-The viewer setup, Deltaforge, and documentation can be downloaded from the 
-`download portal <https://download.deltares.nl/en/download/imod-viewer/>`_.
-After downloading, please unzip the iMOD zip file and install the MSI file as described in the instructions below.
-
 A user guide for the iMOD Viewer can be found in the `online documentation 
 <https://deltares.github.io/iMOD-Documentation/viewer_index.html>`_.
+The documentation for iMOD Python is found on `this website 
+<https://deltares.gitlab.io/imod/imod-python/>`_.
