@@ -2,8 +2,6 @@
 iMOD Suite Documentation
 ========================
 
-**This is a work in progress.**
-
 [The iMOD Suite documentation is generated here.](https://deltares.github.io/iMOD-Documentation/)
 
 [The latest pdf of the documentation can be downloaded via this link.](https://nightly.link/Deltares/iMOD-Documentation/workflows/ci/main/imod-doc.zip)
