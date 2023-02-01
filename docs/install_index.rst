@@ -5,6 +5,13 @@
   instructions for the msi on the imod download portal.
   https://download.deltares.nl/en/download/imod-suite/
 
+**************
+IGNORED HEADER
+**************
+ 
+..
+  Author comment:
+  The header is ignored and to enforce a header above the introduction.
 
 .. toctree::
 
