@@ -6,7 +6,7 @@ Install iMOD Viewer
 
 To install the iMOD Viewer components (3D Viewer & QGIS plugin),
 download the installer 
-`via this link <https://download.deltares.nl/en/download/imod-viewer/>`_.
+`via this link <https://download.deltares.nl/en/download/imod-suite/>`_.
 If the subscription worked correctly, 
 you will receive a download link via e-mail within only a few minutes.
 
