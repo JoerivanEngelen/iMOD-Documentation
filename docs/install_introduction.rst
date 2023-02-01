@@ -1,8 +1,8 @@
 .. _install-introduction:
 
-*************************************
-iMOD Suite installation instructions
-*************************************
+************
+Introduction
+************
 
 The iMOD Suite offers different modules which support modelling with MODFLOW 6
 (including unstructured meshes):
