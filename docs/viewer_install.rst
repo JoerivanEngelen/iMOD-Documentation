@@ -36,9 +36,9 @@ Viewer consists of the iMOD QGIS plugin and iMOD 3D viewer.
 
 .. _Deltares_setup:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-OPTION: Installing with the Deltares setup
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(Option 1) Installing with the Deltares setup
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Run the .msi you can download `on the Deltares download portal
 <https://download.deltares.nl/en/download/imod-suite/>`_
@@ -48,9 +48,9 @@ Follow the installation instructions for :ref:`the viewer install
 
 .. _plugin_repository:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-OPTION: Installing from the QGIS plugin repository
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(Option 2) Installing from the QGIS plugin repository
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In QGIS, navigate to *Plugins > Manage and Install Plugins > All*. In the
 search bar, type: "*iMOD*". Select the iMOD plugin, and click "Install".
@@ -61,9 +61,9 @@ follow the instructions in :numref:`Deltares_setup`, but instead select a
 
 .. _manual_install:
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-OPTION: Manually download and copy the iMOD QGIS plugin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(Option 3) Manually download and copy the iMOD QGIS plugin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Download the iMOD QGIS plugin code from the `Github page
 <https://github.com/Deltares/imod-qgis>`_
