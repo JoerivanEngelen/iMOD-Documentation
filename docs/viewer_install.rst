@@ -27,11 +27,18 @@ QGIS version > 3.18 here. After downloading the QGIS setup, run it.
 This installs a user installation of QGIS, which is sufficient in most cases.
 For a system wide installation, see :ref:`system-wide`.
 
+===========================
+Installing the iMOD Viewer
+===========================
+
+The different options to install the iMOD Viewer are listed below. The iMOD
+Viewer consists of the iMOD QGIS plugin and iMOD 3D viewer.
+
 .. _Deltares_setup:
 
-======================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Installing with the Deltares setup
-======================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Run the .msi you can download `on the Deltares download portal
 <https://download.deltares.nl/en/download/imod-suite/>`_
@@ -41,9 +48,9 @@ Follow the installation instructions for :ref:`the viewer install
 
 .. _plugin_repository:
 
-==============================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Installing from the QGIS plugin repository
-==============================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In QGIS, navigate to *Plugins > Manage and Install Plugins > All*. In the
 search bar, type: "*iMOD*". Select the iMOD plugin, and click "Install".
@@ -54,9 +61,9 @@ follow the instructions in :numref:`Deltares_setup`, but instead select a
 
 .. _manual_install:
 
-===================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Manually download and copy the iMOD QGIS plugin
-===================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Download the iMOD QGIS plugin code from the `Github page
 <https://github.com/Deltares/imod-qgis>`_
@@ -74,9 +81,9 @@ that the checkbox *iMOD* is checked.
 
 .. _system-wide:
 
-=============================================
-Extra: Installing the QGIS plugin system-wide
-=============================================
+=================================================
+Advanced: Installing the QGIS plugin system-wide
+=================================================
 
 There are cases where a system-wide QGIS installation is required, for example
 on computational servers, where multiple users need to use the software.
