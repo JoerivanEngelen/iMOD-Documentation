@@ -7,12 +7,12 @@ the Deltares installer. A working QGIS is needed before installing the iMOD
 viewer. It is also possible to install the QGIS plugin using the QGIS plugin
 repository. This installation is without the 3D viewer.
 
-The different ways to install the QGIS plugin are described under sections
-:ref:`Deltares_setup`, :ref:`plugin_repository`, and :ref:`manual_install`.
-Each of these, however, require the user to install QGIS. To install the QGIS
-plugin, we recommend running the iMOD Viewer installer (section:
-:ref:`Deltares_setup`), which will both install the iMOD 3D viewer, as well as
-the iMOD QGIS plugin.
+The different ways to install the QGIS plugin are described in
+:numref:`Deltares_setup`, :numref:`plugin_repository`, and
+:numref:`manual_install`. Each of these, however, require the user to install
+QGIS. To install the QGIS plugin, we recommend running the iMOD Viewer
+installer (:numref:`Deltares_setup`), which will both install the iMOD 3D
+viewer, as well as the iMOD QGIS plugin.
 
 .. _install_QGIS:
 
@@ -49,7 +49,7 @@ In QGIS, navigate to *Plugins > Manage and Install Plugins > All*. In the
 search bar, type: "*iMOD*". Select the iMOD plugin, and click "Install".
 
 This does not install the iMOD 3D Viewer; so for 3D viewing functionality,
-follow the instructions in :ref:`Deltares_setup`, but instead select a
+follow the instructions in :numref:`Deltares_setup`, but instead select a
 *Minimal* install.
 
 .. _manual_install:
