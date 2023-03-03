@@ -1,3 +1,6 @@
+**Personal fork, for archiving purposes.** 
+**This is the old Sphinx-based iMOD-Documentation**
+**The new quarto-based iMOD-Documentation can be found in the original repository**
 
 iMOD Suite Documentation
 ========================
